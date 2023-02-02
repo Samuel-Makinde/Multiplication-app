@@ -27,7 +27,3 @@ if(!score){
     score = 0;
 }
 scoreEl.innerText = `score: ${score}`;
-// if(!userAns){
-//     score = 0;
-//     alert("You did not provide any answer!");
-// }
